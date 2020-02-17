@@ -1,0 +1,25 @@
+{
+    "name": "multi-ui",
+    "version": "1.0.0",
+    "description": "A Friendly UI Component Set for React",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ru23/multi.git"
+    },
+    "keywords": [
+        "react",
+        "ui库",
+        "js",
+        "typescript"
+    ],
+    "author": "fq1024",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ru23/multi/issues"
+    },
+    "homepage": "https://github.com/ru23/multi#readme"
+}
